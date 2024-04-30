@@ -6,12 +6,8 @@ package Model;
 
 /**
  *
- * @author pasan
+ * @author janit
  */
-public class a {
-    
-    public static void main(String[] args) {
-        
-    }
+public class B {
     
 }
